@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: 02-embeddings-and-rag
+Version: 0.1.0
+Summary: Embeddings and RAG
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: ipykernel>=6.29.5
+Requires-Dist: jupyter>=1.1.1
+Requires-Dist: langchain-community>=0.3.27
+Requires-Dist: langchain-openai>=0.3.28
+Requires-Dist: langgraph>=0.6.2
+Requires-Dist: matplotlib>=3.10.0
+Requires-Dist: nump>=5.5.5.5
+Requires-Dist: openai>=1.59.7
+Requires-Dist: pandas>=2.2.3
+Requires-Dist: plotly>=5.24.1
+Requires-Dist: pymupdf>=1.26.3
+Requires-Dist: python-dotenv>=1.0.1
+Requires-Dist: qdrant-client>=1.15.0
+Requires-Dist: scikit-learn>=1.6.1
+Requires-Dist: scipy>=1.15.1
+Requires-Dist: tiktoken>=0.9.0
